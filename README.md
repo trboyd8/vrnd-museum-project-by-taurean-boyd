@@ -4,4 +4,4 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 
 ## Versions
 - Unity 2017.1.0p4
-- GVR Unity SDK v1.70.0
+- GVR Unity SDK v1.60.0
