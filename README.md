@@ -7,6 +7,15 @@ This project is part of [Udacity](https://www.udacity.com "Udacity - Be in deman
 - GVR Unity SDK v1.60.0
 
 ## Models
-In order to make this experience, I had to use some existing models. They are the following:
- - Classroom by M1zh3l - https://www.turbosquid.com/3d-models/free-blend-mode-class-room/744420
- - 
+In order to make this experience, I had to use some existing models and videos. They are the following:
+Models:
+ - Anime Classroom by argonius - https://www.blendswap.com/blends/view/87816
+ - Monitor by kalemsiz - https://www.turbosquid.com/FullPreview/Index.cfm/ID/672282
+ - Table kitchen001.ZIP by Fwrox - https://www.turbosquid.com/FullPreview/Index.cfm/ID/179755
+Videos:
+ - VR in Education by AMD - https://www.youtube.com/watch?v=EXYzj6qwCCk
+ - The Music Room - Summer NAMM Trailer by Chroma Coda - https://www.youtube.com/watch?v=9gB5VJyArpQ
+ - Google Expeditions: over a million students, on trips virtually anywhere by Google for Education - https://www.youtube.com/watch?v=3MQ9yG_QfDA
+ - MEL Chemistry VR by MEL Science - https://www.youtube.com/watch?v=pIuUZiOEo7k&t=9s
+ - Innovative Ed: The Art of Virtual Reality by BGPSVideo - https://www.youtube.com/watch?v=mSDtTwc8I-w
+ - Introducing Volume by VR Math - https://www.youtube.com/watch?v=QKUxpVvE3UQ
